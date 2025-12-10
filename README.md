@@ -28,7 +28,7 @@ enum Description {
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzzzzz&layout=compact&show_icons=true&locale=en&theme=onedark" alt="Top Langs" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sazzzzzz&layout=compact&show_icons=true&locale=en&theme=onedark" alt="Top Langs" />
 
 <p>
 
