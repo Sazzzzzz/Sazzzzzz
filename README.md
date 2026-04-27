@@ -15,18 +15,17 @@ enum Description {
 ## 🪄 Tech Stack
 
 <p align="center">
-
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/Sazzzzzz/Sazzzzzz/main/assets/rust-inverted.svg" alt="rust" width="40" height="40" /></a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX-Dark.svg" alt="latex" width="40" height="40" /></a>
-  <a href="https://www.wolfram.com/mathematica/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original.svg" alt="wolfram" width="40" height="40" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/Sazzzzzz/Sazzzzzz/main/assets/rust-inverted.svg" width="45" title="Rust"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LaTeX-Dark.svg" width="45" title="LaTeX"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original.svg" width="45" title="Wolfram"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45" title="RaspberryPi"/>&nbsp;
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=sazzzzzz&layout=compact&show_icons=true&locale=en&theme=onedark" alt="Top Langs" />
 
-<p>
+</p>
 
 ---
 
